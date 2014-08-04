@@ -1,0 +1,25 @@
+{
+  "name": "timetable-data",
+  "version": "0.0.0",
+  "description": "Raw transit data for the timetable project.",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loveencounterflow/timetable-data.git"
+  },
+  "keywords": [
+    "timetable",
+    "transport",
+    "transit",
+    "gtfs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loveencounterflow/timetable-data/issues"
+  },
+  "homepage": "https://github.com/loveencounterflow/timetable-data"
+}
